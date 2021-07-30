@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YSAProject", "YSAProject.cs
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "YSAProject", "YSAProject", "{867775C3-E103-4C57-8052-1F30B4568CFB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArtificialNeuralNetwork", "ArtificialNeuralNetwork", "{F3CB1019-9790-459B-87AA-542B424C7349}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,7 +24,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{812A57DC-A9CE-4DDD-9993-51C25AC826B3} = {867775C3-E103-4C57-8052-1F30B4568CFB}
+		{812A57DC-A9CE-4DDD-9993-51C25AC826B3} = {F3CB1019-9790-459B-87AA-542B424C7349}
+		{F3CB1019-9790-459B-87AA-542B424C7349} = {867775C3-E103-4C57-8052-1F30B4568CFB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F0B8F827-C656-4D68-9434-4513D6D750F9}
