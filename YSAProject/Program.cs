@@ -127,7 +127,7 @@ namespace YSAProject
         private const int TrainPercent = 70;
         private const int HiddenNeuronSize = 10;
         private const int OutputNeuronSize = 1;
-        private const string Path = "C:/Users/Administrator/Downloads/AiProject/enerji_verimliliği_veri_seti.xls";
+        private const string Path = "C:/Users/alper/src/YSAProject/enerji_verimliliği_veri_seti.xls";
         private static double[,] _hiddenWeigths, _outputWeights;
         private static double[,] _lastChangeHiddenWeigths, _lastChangeOutputWeights;
         private static double[] _bias;
